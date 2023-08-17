@@ -62,7 +62,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/ro-man-zhula" target="_blank">
+<a href="https://www.linkedin.com/in/ro-man-zhula" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100013381980579&sk=about" target="_blank">
