@@ -87,6 +87,12 @@
 
 <br/>  
 
+## CodeWars Stats
+<div align="center"><img src="[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)" align="center" />
+</div>
+
+<br/>
+
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
