@@ -88,7 +88,7 @@
 <br/>  
 
 ## CodeWars Stats
-<div align="center"><img src="[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)" align="center" />
+<div align="center"><img src="[![codewars](https://www.codewars.com/users/RoMANzhula%20/badges/large)](https://www.codewars.com/users/RoMANzhula%20)" align="center" />
 </div>
 
 <br/>
