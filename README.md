@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Roman, a full-time Java backand developer 👨‍💻 I am doing an internship remotely since may 2023 🚀</div>  
+### <div align="center">I'm Roman, a full-time Java junior backand developer 👨‍💻 I am doing an internship remotely since may 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on [Intership ProgAcademy](https://prog.academy/ua?utm_source=google&utm_medium=cpc&utm_campaign=Search%20-%20Brand%20-%20Ukraine&utm_adgroup=prog%20academy&utm_term=prog%20academy&placement=&utm_target=&utm_content=loc_interest_ms-__loc_physical_ms-21128__device-c&gclid=CjwKCAjwivemBhBhEiwAJxNWN-c2tiHjbHXmAyf5xR0mgjQTtG2Nbce5--Hrno3oAykQ3uulxfcWbxoCDOoQAvD_BwE)  
