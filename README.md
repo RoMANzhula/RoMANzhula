@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on [Intership ProgAcademy](https://prog.academy/ua?utm_source=google&utm_medium=cpc&utm_campaign=Search%20-%20Brand%20-%20Ukraine&utm_adgroup=prog%20academy&utm_term=prog%20academy&placement=&utm_target=&utm_content=loc_interest_ms-__loc_physical_ms-21128__device-c&gclid=CjwKCAjwivemBhBhEiwAJxNWN-c2tiHjbHXmAyf5xR0mgjQTtG2Nbce5--Hrno3oAykQ3uulxfcWbxoCDOoQAvD_BwE)  
   
 
-- 🌱 I’m currently learning Spring Framework, Discord and Telegram Chat-bot  
+- 🌱 I’m currently learning Spring Framework, JWT and React.js.
   
 
-- ❓ Ask me about anything related to Java stack and related technologies  
+- ❓ Ask me about anything related to Java stack and related technologies.
   
 
-- ⚡ Fun fact: I comment my code all the time  
+- ⚡ Fun fact: I code every day.  
   
 
 <br/>  
