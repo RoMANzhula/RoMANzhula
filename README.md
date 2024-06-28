@@ -94,17 +94,11 @@
 </br>
 
 ## LeetCode Stats
-<div align="center"><img src="https://leetcard.jacoblin.cool/RoMANzhula?ext=heatmap" align="center" />
+<div align="center"><img src="https://leetcard.jacoblin.cool/RoMANzhula?ext=heatmap?theme=dark" align="center" />
   
 </div>
 </br>
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+  
 
   
 
