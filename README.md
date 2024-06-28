@@ -94,7 +94,7 @@
 </br>
 
 ## LeetCode Stats
-<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=RoMANzhula&theme=dark" align="center" />
+<div align="center"><img src="https://leetcard.jacoblin.cool/RoMANzhula?ext=heatmap" align="center" />
   
 </div>
 </br>
