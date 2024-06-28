@@ -94,7 +94,7 @@
 </br>
 
 ## LeetCode Stats
-<div align="center"><img src="https://leetcard.jacoblin.cool/RoMANzhula?ext=heatmap?theme=dark" align="center" />
+<div align="center"><img src="https://leetcard.jacoblin.cool/RoMANzhula?theme=dark" align="center" />
   
 </div>
 </br>
