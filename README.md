@@ -94,7 +94,7 @@
 </br>
 
 ## LeetCode Stats
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?RoMANzhula=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RoMANzhula&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 </br>
 
