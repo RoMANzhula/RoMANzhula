@@ -94,8 +94,9 @@
 </br>
 
 ## LeetCode Stats
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RoMANzhula&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=RoMANzhula&theme=dark" align="center" />
+  
+</div>
 </br>
 
 ## Recent Blog Posts  
