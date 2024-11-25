@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="20%">
 
 
 
@@ -79,7 +79,7 @@
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="50"/></a>  
 </div>
 
-</td><td></tr></table>  
+</td></tr></table>  
 
 <br/>  
 
