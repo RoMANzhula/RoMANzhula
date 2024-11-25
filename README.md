@@ -81,7 +81,7 @@
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="50"/></a>  
 </div>
 
-</td></tr></table>  
+</td><td valign="top" width="20%"></tr></table>  
 
 <br/>  
 
